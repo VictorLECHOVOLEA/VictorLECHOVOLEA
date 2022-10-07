@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @VictorLECHOVOLEA
 - I am a BIM Exper in Inteligent Modeling, Automations in AEC, BIM Implementation and BIM Coordination on large scale projects with an experience of 10 years.
-- 👀 I’m currently interested in growing my programming skills and build training materials for my teams.
-- 🌱 I’m currently learning C++ and I fall in love with since June 2021
+- 👀 I’m currently interested in growing my programming skills and building training materials for my peers.
+- 🌱 I’m currently learning C++ and I fall in love with since June 2021. Before C++ I was learning Python and I still write code
+      Check my 2021 year report since I was started using wakatime https://wakatime.com/a-look-back-at-2021
+      
 - 💞️ I’m looking to collaborate on Open Souce projects
 - 📫 Reach me via linkedin at https://www.linkedin.com/in/victor-catalin-lechovolea-36908584/ 
 
