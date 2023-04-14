@@ -4,7 +4,10 @@
       
 - 👀  I’m currently interested in growing my programming skills and building training and lessons learned materials for my peers.
 - 🌱  I’m currently learning C++ and I fall in love with since June 2021. Before C++ I was learning Python and I still write code.
-      Check my 2021 year report since I was started using wakatime https://wakatime.com/a-look-back-at-2021
+      Check my 2021 year report since I was started using wakatime
+      https://wakatime.com/a-look-back-at-2021/2a7225c8-0bfe-42ce-911a-7590540f0221/lnvmogjtoj
+      https://wakatime.com/a-look-back-at-2022/2a7225c8-0bfe-42ce-911a-7590540f0221/qgxmjdqbnq
+      My Wakatime profile : https://wakatime.com/@victorLECHOVOLEA
       
 - 💞️ I’m looking to collaborate as a programmer on Open Souce projects.
 - 📫 Reach me via linkedin at https://www.linkedin.com/in/victor-catalin-lechovolea-36908584/ 
